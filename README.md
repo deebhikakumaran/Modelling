@@ -44,7 +44,6 @@ The deal trend modelling folder includes:
 
 ---
 
-    These projects were developed as part of internship at Zoho, aimed at enhancing CRM analytics capabilities through advanced machine learning and time-series analysis.
-
+These projects were developed as part of internship at Zoho, aimed at enhancing CRM analytics capabilities through advanced machine learning and time-series analysis.
 
 ---
